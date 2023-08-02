@@ -1,0 +1,12 @@
+braceexpand==0.1.7
+fsspec==2022.11.0
+numpy>=1.19.5,<2
+torch>=1.7.1,<2
+Pillow
+clip
+open-clip-torch>=2.0.0,<3.0.0
+pandas>=1.1.5,<2
+pyarrow>=6.0.1,<8
+cn_clip==1.5.1
+wandb>=0.12.10,<0.13
+img2dataset>=1.25.5,<2
